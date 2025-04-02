@@ -43,6 +43,20 @@ This repository is the official PyTorch implementation of "One Look is Enough: A
 ## Results
 Please visit our [project page](https://kaist-viclab.github.io/One-Look-is-Enough_site/) for more experimental results.
 
+## Citation
+If the content is useful, please cite our paper:
+```bibtex
+@misc{kwon2025onelook,
+      title={One Look is Enough: A Novel Seamless Patchwise Refinement for Zero-Shot Monocular Depth Estimation Models on High-Resolution Images}, 
+      author={Byeongjun Kwon and Munchurl Kim},
+      year={2025},
+      eprint={2503.22351},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.22351}, 
+}
+```
+
 ## License
 The source codes including the checkpoint can be freely used for research and education only. Any commercial use should get formal permission from the principal investigator (Prof. Munchurl Kim, mkimee@kaist.ac.kr).
 
