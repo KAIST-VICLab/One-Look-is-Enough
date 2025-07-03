@@ -1,5 +1,6 @@
 <div align="center">
-<h2>One Look is Enough: A Novel Seamless Patchwise Refinement for Zero-Shot  Monocular Depth Estimation Models on High-Resolution Images</h2>
+<h2>One Look is Enough: A Novel Seamless Patchwise Refinement for Zero-Shot  Monocular Depth Estimation Models on High-Resolution Images (ICCV 2025)
+</h2>
 
 <div>    
     <a href='https://www.viclab.kaist.ac.kr/' target='_blank'>Byeongjun Kwon</a></sup>&nbsp&nbsp&nbsp&nbsp;
@@ -36,6 +37,7 @@ This repository is the official PyTorch implementation of "One Look is Enough: A
 
 ## 📧 News
 - **⚠ The code will be released later**
+- **Jun 26, 2025:** "One Look is Enough" is accepted to ICCV 2025
 - **Mar 28, 2025:** This repository is created
 
 ---
