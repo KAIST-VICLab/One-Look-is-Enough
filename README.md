@@ -1,5 +1,5 @@
 <div align="center">
-<h2>One Look is Enough: A Novel Seamless Patchwise Refinement for Zero-Shot  Monocular Depth Estimation Models on High-Resolution Images (ICCV 2025)
+<h2>[ICCV 2025] One Look is Enough: Seamless Patchwise Refinement for Zero-Shot Monocular Depth Estimation on High-Resolution Images
 </h2>
 
 <div>    
@@ -30,7 +30,7 @@
 ---
 
 <h4>
-This repository is the official PyTorch implementation of "One Look is Enough: A Novel Seamless Patchwise Refinement for Zero-Shot Monocular Depth Estimation Models on High-Resolution Images". Our proposed method, PRO, achieves state-of-the-art zero-shot depth accuracy on high-resolution datasets with fine-grained details, outperformaing existing depth refinement methods.
+This repository is the official PyTorch implementation of "One Look is Enough: Seamless Patchwise Refinement for Zero-Shot Monocular Depth Estimation on High-Resolution Images". Our proposed method, PRO, achieves state-of-the-art zero-shot depth accuracy on high-resolution datasets with fine-grained details, outperformaing existing depth refinement methods.
 </h4>
 
 ---
@@ -49,7 +49,7 @@ Please visit our [project page](https://kaist-viclab.github.io/One-Look-is-Enoug
 If the content is useful, please cite our paper:
 ```bibtex
 @misc{kwon2025onelook,
-      title={One Look is Enough: A Novel Seamless Patchwise Refinement for Zero-Shot Monocular Depth Estimation Models on High-Resolution Images}, 
+      title={One Look is Enough: Seamless Patchwise Refinement for Zero-Shot Monocular Depth Estimation on High-Resolution Images}, 
       author={Byeongjun Kwon and Munchurl Kim},
       year={2025},
       eprint={2503.22351},
